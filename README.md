@@ -1,8 +1,5 @@
-Final Project for COMP 3005
 
 Project: Health and Fitness Club Management System
-
-YOUTUBE LINK FOR VIDEO: https://www.youtube.com/watch?v=aTZaJa1DwJ8 
 
 Group of 2: 
 
