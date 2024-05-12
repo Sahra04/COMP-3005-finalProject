@@ -16,7 +16,7 @@ current files:
 
 2. Initialize database with DDL and DML files
 
-3. then run finalProject.py on command line
+3. then run Application-Code.py on command line
    - type python Application-Code.py to run
    - then login as the appropriate user
    
