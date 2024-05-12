@@ -10,7 +10,7 @@ member 2: Karthiga Balasubramaniam
 current files: 
 - SQL file: has DDL and DML files 
 - Application-Code.py the implemenation portion
-- Er-Model-and-Relational-Model
+- Er-Model-and-Relational-Schema
 
 1. Download all files
 
