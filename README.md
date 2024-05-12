@@ -8,17 +8,15 @@ member 1: Sahra Bibi
 member 2: Karthiga Balasubramaniam
 
 current files: 
-- SQL file: has DDL and DML files (2.3 and 2.4)
-- finalProject.py is the 2.5 the implemenation portion
-- 2.1 is the ER diagram
-- assumption for 2.1 ER diagram
-- 2.2 is relational schema
+- SQL file: has DDL and DML files 
+- Application-Code.py the implemenation portion
+- Er Model and Relational Model
 
 1. Download all files
 
 2. Initialize database with DDL and DML files
 
 3. then run finalProject.py on command line
-   - type python finalProject.py to run
+   - type python Application-Code.py to run
    - then login as the appropriate user
    
